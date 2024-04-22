@@ -1,0 +1,177 @@
+                                                     ilk örneğimiz CSS
+                                                              ↓
+
+1. Örneğimiz
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: red;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>İlk CSS Örneği</h1>
+<p>Paragraf</p>
+
+</body>
+</html>
+
+
+2. Örneğimiz
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sayfa başlığı</title>
+</head>
+<body>
+<font size="3" color="red">Kırmızı bir yazı</font>
+<font size="2" color="blue">TMavi Bir yazı</font>
+<font face="verdana" color="green">Farklı font ve yeşil</font>
+</body>
+</html>
+
+
+
+
+
+
+3. Örneğimiz
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    background-color: #2196F3;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+</style>
+</head>
+<body>
+
+<h2>Kutu Model</h2>
+
+<p>Aşağıda border, margin,padding ve içerikten oluşan bir kutu görebilirsiniz. </p>
+
+<div> Bu bir kutudur. </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+                                                    İkinci Örneğimiz HTML
+                                                              ↓
+
+1. Örneğimiz
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sayfa Başlığı</title>
+</head>
+<body>
+
+<h1>Bu bir başlıktır.</h1>
+<p>Bu bir paragraftır.</p>
+
+</body>
+</html>
+
+
+
+
+
+
+2. Örneğimiz
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+    border: 1px solid red;
+    padding: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>Bu bir başlık.</h1>
+
+<p>Bu bir pragraf.</p>
+<p>Bu bir pragraf.</p>
+<p>Bu bir pragraf.</p>
+
+</body>
+</html>
+
+
+
+
+3. Örneğimiz
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid red;
+    border-collapse:collapse;
+}
+th, td {
+    padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+<caption>Öğrenciler</caption>
+  <tr>
+    <th>Ad</th>
+    <th>Soyad</th>    
+  </tr>
+  <tr>
+    <td>Ali</td>
+    <td>Veli</td>   
+  </tr>
+  <tr>
+    <td>Cem</td>
+    <td>Tem</td>
+  </tr>
+ 
+</table>
+
+</body>
+</html>
