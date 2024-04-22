@@ -1,2 +1,27 @@
-# Yaz-l-m
-html - css
+                                                                                   YAZILIM DİLLERİ
+
+1. JavaScript
+2. HTML
+3. CSS
+4. SQL
+5. Java
+6. Bash/Shell
+7. Python
+8. C#
+9. PHP
+10. C++
+11. C
+12. TypeScript
+13. Ruby
+14. Swift
+15. Assembly
+16. Go
+17. Objective-C
+18. VB.NET
+19. R
+20. Matlab
+21. VBA
+22. Kotlin
+23. Scala
+24. Groovy
+25. Perl
