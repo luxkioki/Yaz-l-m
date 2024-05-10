@@ -1,0 +1,8 @@
+Bu saldırılar genellikle Linux üzerinden yapılır ve en çok hesap çalmak için brute force kullanılır. Ve bu brute force linuxun kendine özel uygulaması bunla şifre | Şifreli Veriye Erişim | 
+Yetkilendirme Atakları | Bilgisayar Korsanlığı | Şifrelerin Zayıflıklarını Belirleme | Kimlik Hırsızlığı ve Dolandırıcılık | Botnet Oluşturma brute force uygulaması bunları yapabilir. 
+Size verdiğim password 1-20'ye kadar olan password .txt paroları var. Bunlarla nasıl hesap çalınır. 
+                                                                                                ↓
+İlkönce linux'u açıyosunuz ve brute force indirip kurulumunu yapıyorsunuz. İşletim sisteminiz linux değilse sanal makinadan yapabilirsiniz örn : virtual box | VMWare bunlar vardır.
+sonrasında youtube'dan brute force atakların kodları yazıp ilk çıkan şeye tıklayın ve brute force kurulumunu yaptıktan sonrada youtube'dan izleyerek kodları yazabilirsiniz. Fakat
+benim verdiğim paroları kodlarla birlikte kodlayın'ki zafere ulaşabilirsiniz. Yaptığınızda 2 dakika veya 5 dakika beklemeniz lazım çünkü 1'den 20'ye kadar parolar var. O yüzden uzun sürebilir.
+Yaptıklarımı Uyguladıktan sonra Hydra uygulamasıyla birlikte şifreleri görebilir veya olmadıysana hydra sayesinde şifreleri kırabilirsiniz. Beni Dinlediğiniz için Teşekkürler İyi günler dilerim.
